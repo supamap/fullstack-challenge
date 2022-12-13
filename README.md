@@ -31,7 +31,7 @@ Referencia del diseño
 - La validación del formulario será a criterio personal
 - Será indispensable uso de principios S.O.L.I.D.
 - La eficiencia del código en cuestiones de rendimiento sumarán para esta prueba. 
-- Al finalizar el reto, enviar el enlace del fork de la solución a emmanuel.barturen@talently.tech con copia a cristian@talently.tech con título "Reto Frontend- Talently 2021-08"
+- Al finalizar el reto, enviar el enlace del fork de la solución a emmanuel.barturen@talently.tech con copia a paula.anselmo@talently.tech con título "Reto Frontend- Talently"
 
 ## Recomendaciones
 - Se recomienda el uso de paquetes de laravel para el registro y autenticación (Sanctum, Passport, etc)
