@@ -17,7 +17,7 @@ Referencia del diseño
 ![Kanban-board](https://user-images.githubusercontent.com/11076563/128603762-e0433ea7-36ce-4550-925c-eb68dea8e363.png)
 
 ## Especificaciones técnicas para el proyecto:
-- El proyecto base debe ser laravel framework en su versión 6
+- El proyecto base debe ser laravel framework en cualquier versión
 - El frontend será un SPA dentro de laravel con componentes Vue
 - Los estados del frontend serán manejados por vuex
 - Antes de ingresar al kanban debe existir un login, de otra forma no se puede acceder al tablero
